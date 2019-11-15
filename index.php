@@ -7,4 +7,4 @@ echo "<br>";
 echo $perrito->getnombre();
 echo "<br>";
 echo $perrito->gettamaño_bigotes();
-
+<p>aprueba we</p>
