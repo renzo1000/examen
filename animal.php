@@ -22,4 +22,5 @@ class animal{
     public function getpeso(){
         return $this->peso;
     }
+    echo "renzo soy leslie entre a tu codigo"
 }
